@@ -1,0 +1,5 @@
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\ProgFundExtendedExam30-04-2017PartII\04.WormsWorldParty\bin\Debug\04.WormsWorldParty.exe.config
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\ProgFundExtendedExam30-04-2017PartII\04.WormsWorldParty\bin\Debug\04.WormsWorldParty.exe
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\ProgFundExtendedExam30-04-2017PartII\04.WormsWorldParty\bin\Debug\04.WormsWorldParty.pdb
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\ProgFundExtendedExam30-04-2017PartII\04.WormsWorldParty\obj\Debug\04.WormsWorldParty.exe
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\ProgFundExtendedExam30-04-2017PartII\04.WormsWorldParty\obj\Debug\04.WormsWorldParty.pdb
