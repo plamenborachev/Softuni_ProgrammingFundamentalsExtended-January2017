@@ -1,0 +1,6 @@
+D:\SoftUni\Projects\ExamPreparationII-TakingSampleExam\01.CharityMarathon\bin\Debug\01.CharityMarathon.exe.config
+D:\SoftUni\Projects\ExamPreparationII-TakingSampleExam\01.CharityMarathon\bin\Debug\01.CharityMarathon.exe
+D:\SoftUni\Projects\ExamPreparationII-TakingSampleExam\01.CharityMarathon\bin\Debug\01.CharityMarathon.pdb
+D:\SoftUni\Projects\ExamPreparationII-TakingSampleExam\01.CharityMarathon\obj\Debug\01.CharityMarathon.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\ExamPreparationII-TakingSampleExam\01.CharityMarathon\obj\Debug\01.CharityMarathon.exe
+D:\SoftUni\Projects\ExamPreparationII-TakingSampleExam\01.CharityMarathon\obj\Debug\01.CharityMarathon.pdb

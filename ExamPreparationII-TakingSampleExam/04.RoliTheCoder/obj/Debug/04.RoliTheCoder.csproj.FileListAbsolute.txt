@@ -1,0 +1,6 @@
+D:\SoftUni\Projects\ExamPreparationII-TakingSampleExam\04.RoliTheCoder\bin\Debug\04.RoliTheCoder.exe.config
+D:\SoftUni\Projects\ExamPreparationII-TakingSampleExam\04.RoliTheCoder\bin\Debug\04.RoliTheCoder.exe
+D:\SoftUni\Projects\ExamPreparationII-TakingSampleExam\04.RoliTheCoder\bin\Debug\04.RoliTheCoder.pdb
+D:\SoftUni\Projects\ExamPreparationII-TakingSampleExam\04.RoliTheCoder\obj\Debug\04.RoliTheCoder.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\ExamPreparationII-TakingSampleExam\04.RoliTheCoder\obj\Debug\04.RoliTheCoder.exe
+D:\SoftUni\Projects\ExamPreparationII-TakingSampleExam\04.RoliTheCoder\obj\Debug\04.RoliTheCoder.pdb

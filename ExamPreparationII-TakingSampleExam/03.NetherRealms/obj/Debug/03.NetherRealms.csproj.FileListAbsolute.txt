@@ -1,0 +1,6 @@
+D:\SoftUni\Projects\ExamPreparationII-TakingSampleExam\03.NetherRealms\bin\Debug\03.NetherRealms.exe.config
+D:\SoftUni\Projects\ExamPreparationII-TakingSampleExam\03.NetherRealms\bin\Debug\03.NetherRealms.exe
+D:\SoftUni\Projects\ExamPreparationII-TakingSampleExam\03.NetherRealms\bin\Debug\03.NetherRealms.pdb
+D:\SoftUni\Projects\ExamPreparationII-TakingSampleExam\03.NetherRealms\obj\Debug\03.NetherRealms.exe
+D:\SoftUni\Projects\ExamPreparationII-TakingSampleExam\03.NetherRealms\obj\Debug\03.NetherRealms.pdb
+D:\SoftUni\Projects\ExamPreparationII-TakingSampleExam\03.NetherRealms\obj\Debug\03.NetherRealms.csprojResolveAssemblyReference.cache

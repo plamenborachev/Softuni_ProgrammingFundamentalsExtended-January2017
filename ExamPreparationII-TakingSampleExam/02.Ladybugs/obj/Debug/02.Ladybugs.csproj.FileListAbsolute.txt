@@ -1,0 +1,12 @@
+D:\SoftUni\Projects\ExamPreparationII-TakingSampleExam\02.Ladybugs\bin\Debug\02.Ladybugs.exe.config
+D:\SoftUni\Projects\ExamPreparationII-TakingSampleExam\02.Ladybugs\bin\Debug\02.Ladybugs.exe
+D:\SoftUni\Projects\ExamPreparationII-TakingSampleExam\02.Ladybugs\bin\Debug\02.Ladybugs.pdb
+D:\SoftUni\Projects\ExamPreparationII-TakingSampleExam\02.Ladybugs\obj\Debug\02.Ladybugs.csprojResolveAssemblyReference.cache
+D:\SoftUni\Projects\ExamPreparationII-TakingSampleExam\02.Ladybugs\obj\Debug\02.Ladybugs.exe
+D:\SoftUni\Projects\ExamPreparationII-TakingSampleExam\02.Ladybugs\obj\Debug\02.Ladybugs.pdb
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\ExamPreparationII-TakingSampleExam\02.Ladybugs\bin\Debug\02.Ladybugs.exe.config
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\ExamPreparationII-TakingSampleExam\02.Ladybugs\bin\Debug\02.Ladybugs.exe
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\ExamPreparationII-TakingSampleExam\02.Ladybugs\bin\Debug\02.Ladybugs.pdb
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\ExamPreparationII-TakingSampleExam\02.Ladybugs\obj\Debug\02.Ladybugs.csprojResolveAssemblyReference.cache
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\ExamPreparationII-TakingSampleExam\02.Ladybugs\obj\Debug\02.Ladybugs.exe
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\ExamPreparationII-TakingSampleExam\02.Ladybugs\obj\Debug\02.Ladybugs.pdb
