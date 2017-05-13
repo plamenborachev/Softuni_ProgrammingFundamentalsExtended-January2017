@@ -1,0 +1,6 @@
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\15.RegularExpressionsRegexExercise\05.Commits\bin\Debug\05.Commits.exe.config
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\15.RegularExpressionsRegexExercise\05.Commits\bin\Debug\05.Commits.exe
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\15.RegularExpressionsRegexExercise\05.Commits\bin\Debug\05.Commits.pdb
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\15.RegularExpressionsRegexExercise\05.Commits\obj\Debug\05.Commits.csprojResolveAssemblyReference.cache
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\15.RegularExpressionsRegexExercise\05.Commits\obj\Debug\05.Commits.exe
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\15.RegularExpressionsRegexExercise\05.Commits\obj\Debug\05.Commits.pdb
