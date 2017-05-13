@@ -1,0 +1,6 @@
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\ExamPreparationIV-TakingSampleExam\02.ArrayManipulator\bin\Debug\02.ArrayManipulator.exe.config
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\ExamPreparationIV-TakingSampleExam\02.ArrayManipulator\bin\Debug\02.ArrayManipulator.exe
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\ExamPreparationIV-TakingSampleExam\02.ArrayManipulator\bin\Debug\02.ArrayManipulator.pdb
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\ExamPreparationIV-TakingSampleExam\02.ArrayManipulator\obj\Debug\02.ArrayManipulator.csprojResolveAssemblyReference.cache
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\ExamPreparationIV-TakingSampleExam\02.ArrayManipulator\obj\Debug\02.ArrayManipulator.exe
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\ExamPreparationIV-TakingSampleExam\02.ArrayManipulator\obj\Debug\02.ArrayManipulator.pdb

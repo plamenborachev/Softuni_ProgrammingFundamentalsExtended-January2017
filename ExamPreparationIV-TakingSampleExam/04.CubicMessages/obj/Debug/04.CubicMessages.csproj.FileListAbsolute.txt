@@ -1,0 +1,6 @@
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\ExamPreparationIV-TakingSampleExam\04.CubicMessages\bin\Debug\04.CubicMessages.exe.config
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\ExamPreparationIV-TakingSampleExam\04.CubicMessages\bin\Debug\04.CubicMessages.exe
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\ExamPreparationIV-TakingSampleExam\04.CubicMessages\bin\Debug\04.CubicMessages.pdb
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\ExamPreparationIV-TakingSampleExam\04.CubicMessages\obj\Debug\04.CubicMessages.csprojResolveAssemblyReference.cache
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\ExamPreparationIV-TakingSampleExam\04.CubicMessages\obj\Debug\04.CubicMessages.exe
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\ExamPreparationIV-TakingSampleExam\04.CubicMessages\obj\Debug\04.CubicMessages.pdb
