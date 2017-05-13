@@ -1,0 +1,6 @@
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\ProgFundExtendedExam30-04-2017PartI\02.WormIpsum\bin\Debug\02.WormIpsum.exe.config
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\ProgFundExtendedExam30-04-2017PartI\02.WormIpsum\bin\Debug\02.WormIpsum.exe
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\ProgFundExtendedExam30-04-2017PartI\02.WormIpsum\bin\Debug\02.WormIpsum.pdb
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\ProgFundExtendedExam30-04-2017PartI\02.WormIpsum\obj\Debug\02.WormIpsum.exe
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\ProgFundExtendedExam30-04-2017PartI\02.WormIpsum\obj\Debug\02.WormIpsum.pdb
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\ProgFundExtendedExam30-04-2017PartI\02.WormIpsum\obj\Debug\02.WormIpsum.csprojResolveAssemblyReference.cache
