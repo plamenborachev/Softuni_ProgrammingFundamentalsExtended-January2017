@@ -1,0 +1,5 @@
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\14.StringsAndTextProcessingMoreExer\03.PyramidicFromVideo\bin\Debug\03.PyramidicFromVideo.exe.config
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\14.StringsAndTextProcessingMoreExer\03.PyramidicFromVideo\bin\Debug\03.PyramidicFromVideo.exe
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\14.StringsAndTextProcessingMoreExer\03.PyramidicFromVideo\bin\Debug\03.PyramidicFromVideo.pdb
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\14.StringsAndTextProcessingMoreExer\03.PyramidicFromVideo\obj\Debug\03.PyramidicFromVideo.exe
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\14.StringsAndTextProcessingMoreExer\03.PyramidicFromVideo\obj\Debug\03.PyramidicFromVideo.pdb
