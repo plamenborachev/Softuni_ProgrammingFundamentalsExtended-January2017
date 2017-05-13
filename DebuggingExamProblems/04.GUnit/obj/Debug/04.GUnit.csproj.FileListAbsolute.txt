@@ -1,0 +1,6 @@
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\DebuggingExamProblems\04.GUnit\bin\Debug\04.GUnit.exe.config
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\DebuggingExamProblems\04.GUnit\bin\Debug\04.GUnit.exe
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\DebuggingExamProblems\04.GUnit\bin\Debug\04.GUnit.pdb
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\DebuggingExamProblems\04.GUnit\obj\Debug\04.GUnit.csprojResolveAssemblyReference.cache
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\DebuggingExamProblems\04.GUnit\obj\Debug\04.GUnit.exe
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\DebuggingExamProblems\04.GUnit\obj\Debug\04.GUnit.pdb
