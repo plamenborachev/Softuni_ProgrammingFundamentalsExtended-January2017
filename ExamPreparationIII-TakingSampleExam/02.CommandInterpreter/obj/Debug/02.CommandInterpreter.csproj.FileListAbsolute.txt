@@ -1,0 +1,6 @@
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\ExamPreparationIII-TakingSampleExam\02.CommandInterpreter\bin\Debug\02.CommandInterpreter.exe.config
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\ExamPreparationIII-TakingSampleExam\02.CommandInterpreter\bin\Debug\02.CommandInterpreter.exe
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\ExamPreparationIII-TakingSampleExam\02.CommandInterpreter\bin\Debug\02.CommandInterpreter.pdb
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\ExamPreparationIII-TakingSampleExam\02.CommandInterpreter\obj\Debug\02.CommandInterpreter.csprojResolveAssemblyReference.cache
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\ExamPreparationIII-TakingSampleExam\02.CommandInterpreter\obj\Debug\02.CommandInterpreter.exe
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\ExamPreparationIII-TakingSampleExam\02.CommandInterpreter\obj\Debug\02.CommandInterpreter.pdb
