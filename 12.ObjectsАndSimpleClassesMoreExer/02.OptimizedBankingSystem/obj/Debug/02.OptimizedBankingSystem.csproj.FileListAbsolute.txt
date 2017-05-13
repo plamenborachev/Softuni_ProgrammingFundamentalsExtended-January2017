@@ -1,0 +1,5 @@
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\12.ObjectsАndSimpleClassesMoreExer\02.OptimizedBankingSystem\bin\Debug\OptimizedBankingSystem.exe.config
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\12.ObjectsАndSimpleClassesMoreExer\02.OptimizedBankingSystem\bin\Debug\OptimizedBankingSystem.exe
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\12.ObjectsАndSimpleClassesMoreExer\02.OptimizedBankingSystem\bin\Debug\OptimizedBankingSystem.pdb
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\12.ObjectsАndSimpleClassesMoreExer\02.OptimizedBankingSystem\obj\Debug\OptimizedBankingSystem.exe
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\12.ObjectsАndSimpleClassesMoreExer\02.OptimizedBankingSystem\obj\Debug\OptimizedBankingSystem.pdb

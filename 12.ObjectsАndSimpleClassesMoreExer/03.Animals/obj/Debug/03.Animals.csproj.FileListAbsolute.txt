@@ -1,0 +1,6 @@
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\12.ObjectsАndSimpleClassesMoreExer\03.Animals\bin\Debug\03.Animals.exe.config
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\12.ObjectsАndSimpleClassesMoreExer\03.Animals\bin\Debug\03.Animals.exe
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\12.ObjectsАndSimpleClassesMoreExer\03.Animals\bin\Debug\03.Animals.pdb
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\12.ObjectsАndSimpleClassesMoreExer\03.Animals\obj\Debug\03.Animals.csprojResolveAssemblyReference.cache
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\12.ObjectsАndSimpleClassesMoreExer\03.Animals\obj\Debug\03.Animals.exe
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\12.ObjectsАndSimpleClassesMoreExer\03.Animals\obj\Debug\03.Animals.pdb
