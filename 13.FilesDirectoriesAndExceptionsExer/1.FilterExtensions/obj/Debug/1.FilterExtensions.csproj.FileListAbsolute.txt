@@ -1,0 +1,6 @@
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\13.FilesDirectoriesAndExceptionsExer\1.FilterExtensions\bin\Debug\1.FilterExtensions.exe.config
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\13.FilesDirectoriesAndExceptionsExer\1.FilterExtensions\bin\Debug\1.FilterExtensions.exe
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\13.FilesDirectoriesAndExceptionsExer\1.FilterExtensions\bin\Debug\1.FilterExtensions.pdb
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\13.FilesDirectoriesAndExceptionsExer\1.FilterExtensions\obj\Debug\1.FilterExtensions.csprojResolveAssemblyReference.cache
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\13.FilesDirectoriesAndExceptionsExer\1.FilterExtensions\obj\Debug\1.FilterExtensions.exe
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\13.FilesDirectoriesAndExceptionsExer\1.FilterExtensions\obj\Debug\1.FilterExtensions.pdb

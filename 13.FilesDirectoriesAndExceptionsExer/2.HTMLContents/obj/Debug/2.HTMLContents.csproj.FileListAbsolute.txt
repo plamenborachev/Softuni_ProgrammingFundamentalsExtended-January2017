@@ -1,0 +1,7 @@
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\13.FilesDirectoriesAndExceptionsExer\2.HTMLContents\bin\Debug\2.HTMLContents.exe.config
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\13.FilesDirectoriesAndExceptionsExer\2.HTMLContents\bin\Debug\2.HTMLContents.exe
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\13.FilesDirectoriesAndExceptionsExer\2.HTMLContents\bin\Debug\2.HTMLContents.pdb
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\13.FilesDirectoriesAndExceptionsExer\2.HTMLContents\obj\Debug\2.HTMLContents.csprojResolveAssemblyReference.cache
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\13.FilesDirectoriesAndExceptionsExer\2.HTMLContents\obj\Debug\2.HTMLContents.exe
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\13.FilesDirectoriesAndExceptionsExer\2.HTMLContents\obj\Debug\2.HTMLContents.pdb
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\13.FilesDirectoriesAndExceptionsExer\2.HTMLContents\bin\Debug\input.txt
