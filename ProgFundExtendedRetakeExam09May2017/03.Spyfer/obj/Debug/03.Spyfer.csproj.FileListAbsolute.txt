@@ -1,0 +1,6 @@
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\ProgFundExtendedRetakeExam09May2017\03.Spyfer\bin\Debug\03.Spyfer.exe.config
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\ProgFundExtendedRetakeExam09May2017\03.Spyfer\bin\Debug\03.Spyfer.exe
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\ProgFundExtendedRetakeExam09May2017\03.Spyfer\bin\Debug\03.Spyfer.pdb
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\ProgFundExtendedRetakeExam09May2017\03.Spyfer\obj\Debug\03.Spyfer.csprojResolveAssemblyReference.cache
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\ProgFundExtendedRetakeExam09May2017\03.Spyfer\obj\Debug\03.Spyfer.exe
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\ProgFundExtendedRetakeExam09May2017\03.Spyfer\obj\Debug\03.Spyfer.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\ProgFundExtendedRetakeExam09May2017\02.SpyGram\bin\Debug\02.SpyGram.exe.config
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\ProgFundExtendedRetakeExam09May2017\02.SpyGram\bin\Debug\02.SpyGram.exe
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\ProgFundExtendedRetakeExam09May2017\02.SpyGram\bin\Debug\02.SpyGram.pdb
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\ProgFundExtendedRetakeExam09May2017\02.SpyGram\obj\Debug\02.SpyGram.exe
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\ProgFundExtendedRetakeExam09May2017\02.SpyGram\obj\Debug\02.SpyGram.pdb
