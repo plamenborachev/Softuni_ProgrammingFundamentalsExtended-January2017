@@ -1,0 +1,6 @@
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\ExamPreparationI-TakingSampleExam\02.SoftUniKaraoke\bin\Debug\02.SoftUniKaraoke.exe.config
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\ExamPreparationI-TakingSampleExam\02.SoftUniKaraoke\bin\Debug\02.SoftUniKaraoke.exe
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\ExamPreparationI-TakingSampleExam\02.SoftUniKaraoke\bin\Debug\02.SoftUniKaraoke.pdb
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\ExamPreparationI-TakingSampleExam\02.SoftUniKaraoke\obj\Debug\02.SoftUniKaraoke.csprojResolveAssemblyReference.cache
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\ExamPreparationI-TakingSampleExam\02.SoftUniKaraoke\obj\Debug\02.SoftUniKaraoke.exe
+D:\SoftUni\2.ProgrammingFundamentals-Extended-January2017\Projects\ExamPreparationI-TakingSampleExam\02.SoftUniKaraoke\obj\Debug\02.SoftUniKaraoke.pdb
